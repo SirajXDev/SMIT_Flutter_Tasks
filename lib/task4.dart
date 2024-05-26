@@ -14,7 +14,7 @@ class Task4 extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
                 Icon(Icons.camera_alt),
-                Text('Instagram'),
+                Text('Instagram',style: TextStyle(fontSize: 20),),
                 Icon(Icons.send),
               ],
             ),
